@@ -1,7 +1,7 @@
 # TicTac
 ![Thumbnail](https://github.com/user-attachments/assets/9a73bd1d-8deb-4730-8e87-a1396c60aeae)
 
-This repository includes the CAD (.step and .f3d), code (.ino), and printing (STL) files for TicTac, an Arduino powered two wheel balancing robot.
+This repository includes the CAD (.step), code (.ino), and printing (STL) files for TicTac, an Arduino powered two wheel balancing robot.
 
 The CAD and code for the remote control can be found in its own repository at https://github.com/JoshuaStanleyRobotics/Robot-Remote
 
